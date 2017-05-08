@@ -1,14 +1,9 @@
-
-
-
 processid=1
 arrivaltime=1
 bursttime=1
 priority=1
 q=1
 ready=1
-
-
 t1=1
 if(t1==0 or t1==1 or t1==2 or t1==3):	
 	t1=1
