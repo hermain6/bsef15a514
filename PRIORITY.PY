@@ -1,7 +1,7 @@
 process={}
 priority=[]
-key=1
-loc=1
+key=0
+loc=0
 bursttime=[]
 arrivaltime=[]
 temp=0
